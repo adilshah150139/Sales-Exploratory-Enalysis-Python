@@ -54,6 +54,7 @@ This project demonstrates end-to-end data analysis workflow:
 | Unit tests | Planned |
 | Complete documentation | In Progress |
 
+
 ## Related Projects
 
 - SQL Version: [sales-analysis-sql](https://github.com/yourusername/sales-analysis-sql) - Same analysis using SQL queries

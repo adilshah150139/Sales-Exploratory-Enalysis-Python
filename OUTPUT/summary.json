@@ -1,0 +1,195 @@
+{
+  "total_revenue": 11481900.359900001,
+  "total_orders": 5009,
+  "total_units_sold": 37840.0,
+  "average_order_value": 2292.254014753444,
+  "total_profit": 286013.8196,
+  "total_discount": 1593253.6134330002,
+  "avg_discount_rate": 0.1562577608652113,
+  "revenue_by_category": [
+    {
+      "category": "Technology",
+      "revenue": 4077983.037,
+      "percentage": 35.516621022441235
+    },
+    {
+      "category": "Furniture",
+      "revenue": 3857793.3449,
+      "percentage": 33.59890979696324
+    },
+    {
+      "category": "Office Supplies",
+      "revenue": 3546123.978,
+      "percentage": 30.884469180595502
+    }
+  ],
+  "revenue_by_subcategory": [
+    {
+      "subcategory": "Chairs",
+      "revenue": 1662195.221
+    },
+    {
+      "subcategory": "Phones",
+      "revenue": 1628827.958
+    },
+    {
+      "subcategory": "Tables",
+      "revenue": 1144514.327
+    },
+    {
+      "subcategory": "Storage",
+      "revenue": 1097596.34
+    },
+    {
+      "subcategory": "Binders",
+      "revenue": 1012913.7729999999
+    },
+    {
+      "subcategory": "Machines",
+      "revenue": 914789.875
+    },
+    {
+      "subcategory": "Accessories",
+      "revenue": 876644.034
+    },
+    {
+      "subcategory": "Copiers",
+      "revenue": 657721.17
+    },
+    {
+      "subcategory": "Bookcases",
+      "revenue": 597826.1248999999
+    },
+    {
+      "subcategory": "Appliances",
+      "revenue": 547368.455
+    }
+  ],
+  "profit_by_subcategory": [
+    {
+      "subcategory": "Tables",
+      "profit": -17725.4811
+    },
+    {
+      "subcategory": "Bookcases",
+      "profit": -3472.556
+    },
+    {
+      "subcategory": "Supplies",
+      "profit": -1189.0995
+    },
+    {
+      "subcategory": "Fasteners",
+      "profit": 949.5182
+    },
+    {
+      "subcategory": "Machines",
+      "profit": 3384.7569
+    },
+    {
+      "subcategory": "Labels",
+      "profit": 5546.254
+    },
+    {
+      "subcategory": "Art",
+      "profit": 6527.787
+    },
+    {
+      "subcategory": "Envelopes",
+      "profit": 6964.1767
+    },
+    {
+      "subcategory": "Furnishings",
+      "profit": 12976.0934
+    },
+    {
+      "subcategory": "Appliances",
+      "profit": 18138.005400000002
+    },
+    {
+      "subcategory": "Storage",
+      "profit": 21120.9562
+    },
+    {
+      "subcategory": "Chairs",
+      "profit": 26602.2251
+    },
+    {
+      "subcategory": "Binders",
+      "profit": 30180.3357
+    },
+    {
+      "subcategory": "Paper",
+      "profit": 34009.4701
+    },
+    {
+      "subcategory": "Accessories",
+      "profit": 41867.822
+    },
+    {
+      "subcategory": "Phones",
+      "profit": 44515.7306
+    },
+    {
+      "subcategory": "Copiers",
+      "profit": 55617.8249
+    }
+  ],
+  "revenue_by_region": [
+    {
+      "region": "West",
+      "revenue": 3594408.8355
+    },
+    {
+      "region": "East",
+      "revenue": 3376933.89
+    },
+    {
+      "region": "Central",
+      "revenue": 2475832.9444
+    },
+    {
+      "region": "South",
+      "revenue": 2034724.69
+    }
+  ],
+  "top_5_customers": [
+    {
+      "customer": "Sean Miller",
+      "revenue": 146749.77,
+      "orders": 5
+    },
+    {
+      "customer": "Adrian Barton",
+      "revenue": 143857.709,
+      "orders": 10
+    },
+    {
+      "customer": "Tamara Chand",
+      "revenue": 92602.57400000001,
+      "orders": 5
+    },
+    {
+      "customer": "Becky Martin",
+      "revenue": 88175.266,
+      "orders": 4
+    },
+    {
+      "customer": "Joseph Holt",
+      "revenue": 80520.042,
+      "orders": 6
+    }
+  ],
+  "data_quality": {
+    "rows_read": 9994,
+    "rows_after_cleaning": 9986,
+    "rows_excluded": 8,
+    "exclusion_breakdown": {
+      "missing_values": 0,
+      "invalid_dates": 0,
+      "invalid_numbers": 0,
+      "duplicates_removed": 8,
+      "invalid_values": 0
+    }
+  }
+}
